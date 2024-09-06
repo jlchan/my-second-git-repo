@@ -1,2 +1,3 @@
 Some text.
 Adding another sentence.
+Adding another line
